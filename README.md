@@ -1,8 +1,8 @@
 # ANIMEFLIX
   Clone do Netflix, voltado para animes.
    Print
-![Print](![image](https://user-images.githubusercontent.com/81449890/166065531-b4fe4a17-28df-420c-988a-2ccf9ed2b44c.png)
-)
+![image](https://user-images.githubusercontent.com/81449890/166065531-b4fe4a17-28df-420c-988a-2ccf9ed2b44c.png)
+
 
 ## Implementação
 1. Botoões funcionais
